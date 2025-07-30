@@ -1,4 +1,3 @@
-# Web_Development
 # Code With Khondzi
 
 Welcome to the **Code With Khondzi** project! This is a simple, semantic, and accessible website summarizing lessons learned during the Power Learn Project.
